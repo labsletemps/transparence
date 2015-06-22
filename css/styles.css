@@ -1,0 +1,70 @@
+
+nav { background: none repeat scroll 0 0 white; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.7); font-family: verdana; left: 0; line-height: 40px; height:40px; padding-left: 10px; position: fixed;right: 0;top: 0;vertical-align: middle;z-index: 999;}
+nav .logo {border: 0 dotted #fff;float: left;height: 20px;margin-right: 19px;margin-top: 10px;height:20px;}
+nav a {border: medium none;text-decoration: none;}
+nav .share-button {line-height: normal;position: absolute;right: 35px;top: 10px;}
+nav ul {display: inline;margin: 0;padding: 0;}
+
+td.details-control {
+    background: url('open.png') no-repeat center center;
+    cursor: pointer;
+}
+
+
+ 
+tr.shown td.details-control {
+    background: url('close.png') no-repeat center center;
+}
+ 
+div.slider {
+    display: none;
+}
+ 
+table.dataTable tbody td.no-padding {
+    padding: 0;
+}
+.odd {
+    background-color:red;
+}
+
+.circle-text {
+    width:60%;
+}
+.circle-text:after {
+    content: "";
+    display: block;
+    width: 100%;
+    height:0;
+    padding-bottom: 100%;
+    background: red; 
+    -moz-border-radius: 50%; 
+    -webkit-border-radius: 50%; 
+}
+
+table 
+{
+    padding-right:60px;
+    }
+
+td.details-control {
+    display:none;
+    }
+
+    tr:hover {
+    cursor:pointer;
+    }
+
+    tr 
+    {
+   text-align:center;
+    }
+
+.test 
+    {
+    background-image: none;
+    }
+
+
+
+
+</styl
