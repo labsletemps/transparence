@@ -3,7 +3,7 @@ letemps.ch - juin 2015
 
 
 
-![](http://www.letemps.ch/rw/Le_Temps/Quotidien/2015/06/22/Suisse/ImagesWeb/cover_classement_transparence(2-kCgG--672x359@LeTemps.ch.jpg)
+![](http://labs.letemps.ch/interactive/2015/transparence/social.jpg)
 
 Voir le projet : http://labs.letemps.ch/interactive/2015/transparence/
 
